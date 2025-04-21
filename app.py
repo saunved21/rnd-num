@@ -40,7 +40,7 @@ def random_number():
     </head>
     <body>
         <div class="card">
-            <h1 class="mb-3">🎲 Your Lucky Number</h1>
+            <h1 class="mb-3">🎲 Random Number</h1>
             <div class="number">{{ number }}</div>
             <p class="mt-3"><a href="/" class="btn btn-outline-dark">Try Again</a></p>
         </div>
