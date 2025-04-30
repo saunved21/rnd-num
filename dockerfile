@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi
+FROM python:3.9-slim
 
 WORKDIR /app
 
